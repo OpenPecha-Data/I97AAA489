@@ -1,0 +1,69 @@
+id: I97AAA489
+ocr_import_info:
+  timestamp: '2023-09-29T16:05:27.404019+00:00'
+  batch_id: batch-cc7c
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharma Kyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-09-30 00:54:32.562036+00:00
+last_modified: 2023-09-30 00:54:32.562044+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W29196
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW29196
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་སྦྱར་འཕགས་པའི་གང་ཟག་རྣམས་ཀྱི་འབྱུང་གནས།
+  languages:
+  - bo
+  author: སློབ་དཔོན་ཐེག་མཆོག
+statistics:
+  ocr_word_mean_confidence_index: 0.9854602948046366
+  ocr_word_median_confidence_index: 0.9999956
+bases:
+  I5141:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5141
+      total_pages: 748
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I5141.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99999607
+      ocr_word_mean_confidence_index: 0.9839006732002911
+  I5142:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5142
+      total_pages: 830
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I5142.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99999654
+      ocr_word_mean_confidence_index: 0.9864542600742453
+  I5143:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5143
+      total_pages: 706
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I5143.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999935
+      ocr_word_mean_confidence_index: 0.985825060597839
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
